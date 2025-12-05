@@ -28,4 +28,5 @@ function displayPrice(price) {
 const maxFromArray = findMaxInArray();
 console.log(maxFromArray);
 
+
 displayPrice(99);
